@@ -1,0 +1,23 @@
+﻿  photon_1.cpp
+C:\Users\Higashi\Desktop\Subjects\Photon\Photon_1\Photon_1\affine.cpp(92,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "photon_1.cpp")
+  
+C:\Users\Higashi\Desktop\Subjects\Photon\Photon_1\Photon_1\affine.cpp(96,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "photon_1.cpp")
+  
+C:\Users\Higashi\Desktop\Subjects\Photon\Photon_1\Photon_1\bmp_info.cpp(40,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "photon_1.cpp")
+  
+C:\Users\Higashi\Desktop\Subjects\Photon\Photon_1\Photon_1\bmp_info.cpp(40,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "photon_1.cpp")
+  
+C:\Users\Higashi\Desktop\Subjects\Photon\Photon_1\Photon_1\bmp_info.cpp(17,21): warning C4101: y: неиспользованная локальная переменная
+  (компиляция исходного файла "photon_1.cpp")
+  
+C:\Users\Higashi\Desktop\Subjects\Photon\Photon_1\Photon_1\bmp_info.cpp(17,39): warning C4101: bytes: неиспользованная локальная переменная
+  (компиляция исходного файла "photon_1.cpp")
+  
+C:\Users\Higashi\Desktop\Subjects\Photon\Photon_1\Photon_1\bmp_info.cpp(17,18): warning C4101: x: неиспользованная локальная переменная
+  (компиляция исходного файла "photon_1.cpp")
+  
+  Photon_1.vcxproj -> C:\Users\Higashi\Desktop\Subjects\Photon\Photon_1\x64\Debug\Photon_1.exe
